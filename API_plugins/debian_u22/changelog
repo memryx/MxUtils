@@ -1,3 +1,9 @@
+memx-accl-plugins-u22 (1.1.0-2) stable; urgency=medium
+
+    * SDK 1.1
+
+ -- MemryX <no-reply@memryx.com>  Sun, 22 Dec 2024 00:00:00 -0400
+
 memx-accl-plugins-u22 (1.0.0-6) stable; urgency=medium
 
     * 1.0 Stable

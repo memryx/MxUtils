@@ -1,3 +1,15 @@
+memx-accl-plugins-d11 (1.2.0-2) stable; urgency=medium
+
+    * SDK 1.2
+
+ -- MemryX <no-reply@memryx.com>  Wed, 5 Mar 2025 00:00:00 -0400
+
+memx-accl-plugins-d11 (1.2.0-1) testing; urgency=medium
+
+    * SDK 1.2
+
+ -- MemryX <no-reply@memryx.com>  Tue, 18 Feb 2025 00:00:00 -0400
+
 memx-accl-plugins-d11 (1.1.0-2) stable; urgency=medium
 
     * SDK 1.1

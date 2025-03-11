@@ -1,9 +1,9 @@
 Source: memx-accl-plugins-d11
 Maintainer: MemryX <no-reply@memryx.com>
-Build-Depends: debhelper (>= 10), memx-accl (>= 1.1.0), memx-accl (<< 1.2.0), libcpuinfo-dev, libgomp1
+Build-Depends: debhelper (>= 10), memx-accl (>= 1.2.0), memx-accl (<< 1.3.0), libcpuinfo-dev, libgomp1
 
 Package: memx-accl-plugins-d11
 Architecture: amd64 arm64
-Depends: memx-accl (>= 1.1.0) | memx-accl-noavx (>= 1.1.0), memx-accl (<< 1.2.0) | memx-accl-noavx (<< 1.2.0), libgomp1, libcpuinfo0, ${shlibs:Depends}, ${misc:Depends}
+Depends: memx-accl (>= 1.2.0) | memx-accl-noavx (>= 1.2.0), memx-accl (<< 1.3.0) | memx-accl-noavx (<< 1.3.0), libgomp1, libcpuinfo0, ${shlibs:Depends}, ${misc:Depends}
 Conflicts: memx-accl-plugins-u22, memx-accl-plugins-u24, memx-accl-plugins-d12
 Description: MemryX Runtime API plugins for ONNX, TensorFlow, and TFLite -- built on Debian 11

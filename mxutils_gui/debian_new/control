@@ -5,5 +5,5 @@ Build-Depends: debhelper (>= 10)
 Package: memx-utils-gui-cv46
 Architecture: amd64 arm64 riscv64
 Conflicts: memx-utils-gui-cv45, memx-utils-gui-cv45d
-Depends: libopencv-dev, ${shlibs:Depends}, ${misc:Depends}
+Depends: libopencv-dev, qtbase5-dev, ${shlibs:Depends}, ${misc:Depends}
 Description: MemryX Utilities Suite -- GUI Toolkit

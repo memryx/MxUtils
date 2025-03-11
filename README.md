@@ -6,8 +6,8 @@
 
 
 <!-- Badges for quick project insights -->
-[![MemryX SDK](https://img.shields.io/badge/MemryX%20SDK-1.0-brightgreen)](https://developer.memryx.com)
-[![MemryX SDK](https://img.shields.io/badge/MxAccl-1.0-brightgreen)](https://developer.memryx.com)
+[![MemryX SDK](https://img.shields.io/badge/MemryX%20SDK-1.2-brightgreen)](https://developer.memryx.com)
+[![MemryX SDK](https://img.shields.io/badge/MxAccl-1.2-brightgreen)](https://github.com/memryx/MxAccl)
 [![C++](https://img.shields.io/badge/C++-17-blue)](https://en.cppreference.com)
 [![OpenCV](https://img.shields.io/badge/OpenCV-gray)](...)
 [![QT](https://img.shields.io/badge/QT-5-brightgreen)](...)
@@ -146,4 +146,4 @@ Enhance your experience with MemryX solutions by exploring the following resourc
 - **[MemryX SDK Installation Guide](https://developer.memryx.com/get_started/install.html):** Learn how to set up essential tools and drivers to start using MemryX accelerators.
 - **[Tutorials](https://developer.memryx.com/tutorials/tutorials.html):** Follow detailed, step-by-step instructions for various use cases and applications.
 - **[Model Explorer](https://developer.memryx.com/model_explorer/models.html):** Discover and explore models that have been compiled and optimized for MemryX accelerators.
-- **[Examples](https://github.com/memryx/MemryX_eXamples):** Explore a collection of end-to-end AI applications powered by MemryX hardware and software. 
+- **[Examples](https://github.com/memryx/MemryX_eXamples):** Explore a collection of end-to-end AI applications powered by MemryX hardware and software.
